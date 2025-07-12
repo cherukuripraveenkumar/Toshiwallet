@@ -1,8 +1,5 @@
-# Welcome to your Lovable project
+# Welcome to your Toshi project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/26f8ecc2-f972-41a0-bccd-a2e3d62b94c7
 
 ## How can I edit this code?
 
